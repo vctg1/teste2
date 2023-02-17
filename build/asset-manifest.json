@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "https://vctg1.github.io/cened-gestor/static/css/main.ebc420fe.css",
+    "main.js": "https://vctg1.github.io/cened-gestor/static/js/main.863280ca.js",
+    "static/media/favicon.ico": "https://vctg1.github.io/cened-gestor/static/media/favicon.3ffa65bfb56898df688c.ico",
+    "static/media/notification.svg?s3g3t9": "https://vctg1.github.io/cened-gestor/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "https://vctg1.github.io/cened-gestor/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "https://vctg1.github.io/cened-gestor/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "https://vctg1.github.io/cened-gestor/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "https://vctg1.github.io/cened-gestor/index.html",
+    "main.ebc420fe.css.map": "https://vctg1.github.io/cened-gestor/static/css/main.ebc420fe.css.map",
+    "main.863280ca.js.map": "https://vctg1.github.io/cened-gestor/static/js/main.863280ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc420fe.css",
+    "static/js/main.863280ca.js"
+  ]
+}
